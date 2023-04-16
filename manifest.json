@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Copypaste Notes",
+  "version": "0.1.0",
+  "version_name": "0.1.0",
+  "description": "A Note taking Chrome extension for quick copy-n-paste",
+  "author": "Khoa Luu",
+  "icons": {
+    "128": "/128.png"
+  },
+  "action": {
+    "default_popup": "/index.html",
+    "default_title": "Copypaste Notes"
+  }
+}
+
